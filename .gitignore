@@ -9,8 +9,7 @@
 #
 # See gitignore(5) man page for more details
 #
-config.php
-/config.pp
+/config.php
 /lib/editor/tinymce/extra/tools/temp/
 *~
 *.swp
@@ -36,3 +35,26 @@ composer.lock
 /lib/yuilib/*/build/*/*-coverage.js
 # lib/yuilib/version/module/module-coverage.js
 /lib/yuilib/*/*/*-coverage.js
+
+# Custom Riders Edge file exclusions
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+/backup
+/audio
+/video
+/handbooks
+/presentation
+/palmas
+
+*.dist
+config_*.php
+*.mp3
+*.mp4
+*.pdf
+*.log
