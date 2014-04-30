@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    $(".forms").hide();
+    $("#myselect").change(function() {
+        switch($(this).val()){ 
+            case "Model 1":
+                $(".forms").hide().parent().find("#Form1").show();
+                break;
+            case "Model 2":
+                $(".forms").hide().parent().find("#Form2").show();
+                break;
+        }
+    });
+});
+ </script>
+ <script type="text/javascript">
+function go()
+{
+window.location=document.getElementById("link").value
+}
+</script>
+</head>
+
+
+<body>
+
+<select id="myselect">
+  <option selected>-Choose Country-</option>
+  <option value="Model 1">Canada</option>
+  <option value="Model 2">United States</option>
+</select>
+
+<div id="Form1" class="forms">
+<br />
+<form>
+<select id="link" onchange="go()">
+<option>-Choose your provincial road transportation office-</option>
+<option value="http://www.transportation.alberta.ca/index.htm">Alberta Ministry of Transportation</option>
+<option value="http://www.th.gov.bc.ca‎"> Government of British Columbia Ministry of Transportation</option>
+<option value="http://www.manitoba.ca/mit">Manitoba Department of Infrastructure and Transportation</option>
+<option value="http://www2.gnb.ca/content/gnb/en/departments/dti.html‎">New Brunswick Department of Transportation and Infrastructure</option>
+<option value="http://www.tw.gov.nl.ca">Newfoundland and Labrador Department of Transportation and Works</option>
+<option value="http://www.dot.gov.nt.ca‎">Government of the Northwest Territories Department of Transportation</option>
+<option value="http://www.novascotia.ca/tran‎">Nova Soctia Department of Transportation and Infrastructure Renewal</option>
+<option value="http://www.edt.gov.nu.ca">Nunavut Department of Economic Development and Transportation</option>
+<option value="http://www.mto.gov.on.ca">Ontario ministry of transport</option>
+<option value="http://www.mtq.gouv.qc.ca">Transports Quebec</option>
+<option value="http://www.highways.gov.sk.ca/">Saskatchewan Department of Highways and Transportation</option>
+<option value="http://www.roadsafety.gov.yk.ca">Yukon Transport Services</option>
+</select>
+</form></div>
+<div id="Form2" class="forms">
+<br />
+<form>
+<select id="link" onchange="go()">
+<option>-Choose your state road transportation office-</option>
+<option value="http://www.adeca.alabama.gov/LETS/default.aspx">Alabama Department of Economic and Community Affairs</option>
+      <option value="http://www.dot.state.ak.us/stwdplng/hwysafety/index.shtml">Alaska Highway Safety Office</option>
+      <option value="http://www.americansamoa.gov/index.php/offices/departments/public-safety">American Samoa Department of Public Safety</option>
+      <option value="http://www.azgohs.gov">Arizona Governor's Office of Highway Safety</option>
+      <option value="http://asp.arkansas.gov/services-and-programs/detail/highway-safety-office">Arkansas Highway Safety Office</option>
+      <option value="http://www.ots.ca.gov">California Office of Traffic Safety</option>
+      <option value="http://www.coloradodot.info/programs/safety-data-sources-information">Colorado Office of Transportation Safety</option>
+      <option value="http://www.ct.gov/dot/cwp/view.asp?a=3529&amp;q=464088">Connecticut Office of Highway Safety</option>
+      <option value="http://www.ohs.delaware.gov">Delaware Office of Highway Safety</option>
+      <option value="http://ddot-hso.com/">District Highway Safety Office</option>
+      <option value="http://www.dot.state.fl.us/safety/">Florida State Safety Office</option>
+      <option value="http://www.gahighwaysafety.org">Georgia Governor's Office of Highway Safety</option>
+      <option value="http://www.dpw.guam.gov">Guam Office of Highway Safety</option>
+      <option value="http://hawaii.gov/dot">Hawaii Department of Transportation</option>
+      <option value="http://www.itd.idaho.gov/ohs">Idaho Office of Highway Safety</option>
+      <option value="http://www.dot.il.gov/safety.html">Illinois Division of Traffic Safety</option>
+      <option value="http://www.in.gov/cji/2574.htm">Indiana Traffic Safety Division</option>
+      <option value="http://www.dps.state.ia.us/commis/gtsb">Iowa Governor's Traffic Safety Bureau</option>
+      <option value="http://www.ksdot.org/burtrafficsaf">Kansas Department of Transportation</option>
+      <option value="http://highwaysafety.ky.gov/">Kentucky Office of Highway Safety</option>
+      <option value="http://www.lahighwaysafety.org/">Louisiana Highway Safety Commission</option>
+      <option value="http://www.maine.gov/dps/bhs">Maine Bureau of Highway Safety</option>
+      <option value="http://mhso.mva.maryland.gov/index.htm">Maryland Highway Safety Office</option>
+      <option value="http://www.dmv.state.va.us/webdoc/safety/index.asp"></option>
+      <option value="http://www.michigan.gov/ohsp">Michigan Office of Highway Safety Planning</option>
+      <option value="https://dps.mn.gov/divisions/ots">Minnesota Office of Traffic Safety</option>
+      <option value="http://www.dps.state.ms.us/divisions/public-safety-planning/governors-office-of-highway-safety-2/">Mississippi Office of Highway Safety</option>
+      <option value="http://www.modot.mo.gov/safety/">Missouri Traffic and Highway Safety Division</option>
+      <option value="http://www.mdt.mt.gov/safety/safetyprg.shtml">Montana State Highway Traffic Safety Office</option>
+      <option value="http://www.dor.state.ne.us/nohs">Nebraska Office of Highway Safety</option>
+      <option value="http://www.ots.state.nv.us">Nevada Office of Traffic Safety</option>
+      <option value="http://www.nh.gov/hsafety">New Hampshire Highway Safety Agency</option>
+      <option value="http://www.nj.gov/oag/hts/index.html">New Jersey Division of Highway Traffic Safety</option>
+      <option value="http://dot.state.nm.us/en/Traffic_Safety.html">New Mexico Traffic Safety Bureau</option>
+      <option value="http://www.safeny.ny.gov/">New York Governor's Traffic Safety Committee</option>
+      <option value="http://www.ncdot.org/programs/ghsp/">North Carolina Governor's Highway Safety Program</option>
+      <option value="http://www.dot.nd.gov/divisions/safety/trafficsafety.htm">North Dakota Department of Transportation</option>
+      <option value="http://www.dps.gov.mp/index.php/commish/fiscaffairs/hsp">Northern Mariana Islands Highway Safety Program</option>
+      <option value="http://ohiohighwaysafetyoffice.ohio.gov/">Ohio Traffic Safety Office</option>
+      <option value="http://ok.gov/ohso/">Oklahoma Highway Safety Office</option>
+      <option value="http://www.oregon.gov/ODOT/TS/safetyprograms.shtml">Oregon Transportation Safety Division</option>
+      <option value="http://www.justdrivepa.org/">Pennsylvania Bureau of Maintenance and Operations</option>
+      <option value="http://www.comisionparalaseguridadeneltransito.com/">Puerto Rico Traffic Safety Commission</option>
+      <option value="http://www.dot.state.ri.us/programs/safety/index.asp">Rhode Island Office of Highway Safety</option>
+      <option value="http://www.scdps.gov/ohs/">South Carolina Office of Highway Safety and Justice Programs</option>
+      <option value="http://dps.sd.gov/enforcement/highway_safety/default.aspx">South Dakota Office of Highway Safety</option>
+      <option value="http://tntrafficsafety.com/">Tennessee Governor's Highway Safety Office</option>
+      <option value="http://www.txdot.gov/safety/">Texas Traffic Safety Section</option>
+      <option value="http://highwaysafety.utah.gov/">Utah Highway Safety Office </option>
+      <option value="http://www.vthighwaysafety.com/">Vermont Governor's Highway Safety Program </option>
+      <option value="http://mass.gov/highwaysafety">Massachusetts Highway Safety Division</option>
+      <option value="http://www.dmv.state.va.us/webdoc/safety/index.asp">Virginia Highway Safety Office </option>
+      <option value="http://www.wtsc.wa.gov">Washington Traffic Safety Commission</option>
+      <option value="http://www.dmv.wv.gov/highwaysafety">West Virginia Governor's Highway Safety Program</option>
+      <option value="http://www.dot.wisconsin.gov/safety/">Wisconsin Bureau of Transportation Safety</option>
+      <option value="http://www.dot.state.wy.us/wydot/dot_safety">Wyoming Highway Safety Program</option>
+</select>
+</form></div>
+
+</body>
+</html>

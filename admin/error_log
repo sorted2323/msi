@@ -1,0 +1,13 @@
+[02-Jul-2013 14:58:43 US/Eastern] Default exception handler: Cannot downgrade enrol_authorize from 2012112900 to 2012051300. Debug: 
+Error code: cannotdowngrade
+* line 499 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[18-Oct-2013 17:03:45 America/Toronto] Default exception handler: Plugin "mod_externalzip" is installed in incorrect location "$CFG-&gt;dirroot/mod/externalzip", expected location is "$CFG-&gt;dirroot/local/externalzip" Debug: 
+Error code: detectedmisplacedplugin
+* line 573 of /lib/upgradelib.php: plugin_misplaced_exception thrown
+* line 381 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1586 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 386 of /admin/index.php: call to upgrade_noncore()
+

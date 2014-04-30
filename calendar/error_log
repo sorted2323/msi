@@ -1,0 +1,1 @@
+[06-Mar-2014 01:57:40 America/Toronto] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ridersed/public_html/lib/dml/mysqli_native_moodle_database.php on line 384

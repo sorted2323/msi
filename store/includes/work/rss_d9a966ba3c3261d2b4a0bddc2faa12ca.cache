@@ -1,0 +1,78 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2014 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:37:"ICI relais & Predict par EXAPAQ - 2.3";s:4:"link";s:38:"http://addons.oscommerce.com/info/9043";s:11:"description";s:2149:"Proposez de nouveaux modes de livraison &agrave; vos clients, avec la fiabilit&eacute; et la rapidit&eacute; du r&eacute;seau EXAPAQ !<br />
+ <br />
+* Avec ICI relais, livrez vos clients en 24 ou 48 heures dans l'un de nos 5000 commerces de proximit&eacute; sur toute la France sans leur imposer de contraintes. <br />
+Nous mettons &agrave; votre disposition des espaces ICI relais dont la localisation et les larges plages horaires d'ouverture vont faciliter la vie de vos clients.<br />
+ <br />
+* Avec Predict, proposez la solution de livraison sur rendez-vous interactive et sans-souci.<br />
+Vos clients choisissent directement par SMS le jour et cr&eacute;neau horaire qui leur conviennent le mieux parmi la liste des choix propos&eacute;s par EXAPAQ.<br />
+      - Une livraison toute France en 24/48 H par EXAPAQ, selon votre adresse et le lieu d&rsquo;exp&eacute;dition du colis<br />
+      - Un choix interactif des dates et cr&eacute;neaux horaires (via SMS ou via http://destinataires.exapaq.com)<br />
+      - Un suivi d&eacute;taill&eacute; du colis (tracing) disponible sur www.exapaq.com<br />
+      - Un rappel par SMS le jour de livraison<br />
+ <br />
+Les modules EXAPAQ pour osCommerce 2.3<br />
+ <br />
+Les modules ICI relais &amp; Predict par EXAPAQ vous permettent d'ajouter de nouveaux modes de livraison &agrave; votre site osCommerce 2.3 avec trois grandes fonctionnalit&eacute;s :<br />
+ <br />
+- La recherche et s&eacute;lection d'un espace ICI relais / l'explication de sa livraison Predict<br />
+- L&rsquo;export des commandes vers EXA-Print et la mise &agrave; jour de leurs statuts<br />
+- Un tracing complet de la commande client<br />
+ <br />
+Vous pouvez t&eacute;l&eacute;charger la documentation technique de ce module ici : http://www.icirelais.com/static/img/src/visus-solutions/readme_exapaq_oscommerce23%20-%20FRA.pdf<br />
+ <br />
+Ces modules sont d&eacute;velopp&eacute;s et support&eacute;s par EXAPAQ S.A. - Une version compatible osCommerce 2.2 est &eacute;galement disponible.<br />
+ <br />
+Pour toute demande de support technique ou pour devenir client, contactez-nous : http://www.icirelais.com/contact";s:7:"pubDate";s:31:"Tue, 15 Apr 2014 17:57:44 +0200";}i:1;a:4:{s:5:"title";s:37:"ICI relais & Predict par EXAPAQ - 2.2";s:4:"link";s:38:"http://addons.oscommerce.com/info/9042";s:11:"description";s:2149:"Proposez de nouveaux modes de livraison &agrave; vos clients, avec la fiabilit&eacute; et la rapidit&eacute; du r&eacute;seau EXAPAQ !<br />
+ <br />
+* Avec ICI relais, livrez vos clients en 24 ou 48 heures dans l'un de nos 5000 commerces de proximit&eacute; sur toute la France sans leur imposer de contraintes. <br />
+Nous mettons &agrave; votre disposition des espaces ICI relais dont la localisation et les larges plages horaires d'ouverture vont faciliter la vie de vos clients.<br />
+ <br />
+* Avec Predict, proposez la solution de livraison sur rendez-vous interactive et sans-souci.<br />
+Vos clients choisissent directement par SMS le jour et cr&eacute;neau horaire qui leur conviennent le mieux parmi la liste des choix propos&eacute;s par EXAPAQ.<br />
+      - Une livraison toute France en 24/48 H par EXAPAQ, selon votre adresse et le lieu d&rsquo;exp&eacute;dition du colis<br />
+      - Un choix interactif des dates et cr&eacute;neaux horaires (via SMS ou via http://destinataires.exapaq.com)<br />
+      - Un suivi d&eacute;taill&eacute; du colis (tracing) disponible sur www.exapaq.com<br />
+      - Un rappel par SMS le jour de livraison<br />
+ <br />
+Les modules EXAPAQ pour osCommerce 2.2<br />
+ <br />
+Les modules ICI relais &amp; Predict par EXAPAQ vous permettent d'ajouter de nouveaux modes de livraison &agrave; votre site osCommerce 2.2 avec trois grandes fonctionnalit&eacute;s :<br />
+ <br />
+- La recherche et s&eacute;lection d'un espace ICI relais / l'explication de sa livraison Predict<br />
+- L&rsquo;export des commandes vers EXA-Print et la mise &agrave; jour de leurs statuts<br />
+- Un tracing complet de la commande client<br />
+ <br />
+Vous pouvez t&eacute;l&eacute;charger la documentation technique de ce module ici : http://www.icirelais.com/static/img/src/visus-solutions/readme_exapaq_oscommerce22%20-%20FRA.pdf<br />
+ <br />
+Ces modules sont d&eacute;velopp&eacute;s et support&eacute;s par EXAPAQ S.A. - Une version compatible osCommerce 2.3 est &eacute;galement disponible.<br />
+ <br />
+Pour toute demande de support technique ou pour devenir client, contactez-nous : http://www.icirelais.com/contact";s:7:"pubDate";s:31:"Tue, 15 Apr 2014 17:56:33 +0200";}i:2;a:4:{s:5:"title";s:21:"jQuery Banner Rotator";s:4:"link";s:38:"http://addons.oscommerce.com/info/7461";s:11:"description";s:475:"there was an error in the second fuction file as the banner did not work.<br />
+it did not store the banner group name in the configuration file but the id number.<br />
+Now i changed the following line in the second fuction file<br />
+<br />
+$banner_class_array[] = array('id' =&gt; $banner_class['banners_id']),<br />
+<br />
+in<br />
+<br />
+$banner_class_array[] = array('id' =&gt; $banner_class['banners_group']),<br />
+<br />
+and now it works<br />
+sorry for the problems";s:7:"pubDate";s:31:"Tue, 15 Apr 2014 12:33:50 +0200";}i:3;a:4:{s:5:"title";s:36:"Terminverwaltung/calendar management";s:4:"link";s:38:"http://addons.oscommerce.com/info/7059";s:11:"description";s:696:"- Anpassung an osc 2.3.1<br />
+- kleinere Layout&auml;nderungen<br />
+- Zur&uuml;ck-Button in kalender_invoice<br />
+- beim Bl&auml;ttern und dem R&uuml;cksprung aus kalender_invoice oder kalender_admin bleibt der zuvor gelesene Datensatz <br />
+erhalten (in der vorherigen Version wurde die Maske zur&uuml;ckgesetzt auf den Anfangszustand)<br />
+------------<br />
+- modification for 2.3.1<br />
+- minor layout updates<br />
+- back-button in kalender_invoice<br />
+- after the return from kalender_invoice or kalender_admin or through the forward/backward scrolling the read <br />
+customers data remains on the screen (in former version the data was resetted)<br />
+---------<br />
+full package";s:7:"pubDate";s:31:"Fri, 16 Sep 2011 06:00:15 +0200";}i:4;a:4:{s:5:"title";s:36:"Previous - Next - With detailed info";s:4:"link";s:38:"http://addons.oscommerce.com/info/1164";s:11:"description";s:224:"This is for osCommerce 2.3.1<br />
+<br />
+If you have not upgrade osC use an earlier version<br />
+<br />
+I forgot to add a step in how to use this contribution in the last paclage   Sorry<br />
+<br />
+This is a full package";s:7:"pubDate";s:31:"Thu, 06 Jan 2011 19:09:35 +0100";}}s:11:"items_count";i:5;}
