@@ -58,3 +58,8 @@ config_*.php
 *.mp4
 *.pdf
 *.log
+
+# keylemon project
+.gitmodules
+/auth/keylemon
+
